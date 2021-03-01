@@ -1,8 +1,6 @@
 from win10toast import ToastNotifier
 import time
 
-
-
 class Notificaciones:
 
     def notificar(self, titulo,mensaje):

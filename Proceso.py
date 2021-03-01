@@ -2,7 +2,6 @@ import csv
 from ConectorPostgres import *
 from Notificaciones import *
 from tqdm import tqdm
-from time import sleep
 
 class Proceso:
 
